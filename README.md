@@ -1,2 +1,3 @@
-# Myshko-s-goit-markup-hw-07
-My 7-th homework on GoIT
+# goit-markup-hw-01
+https://myshkomykhailo.github.io/goit-markup-hw-01/
+My first homework GoIT HTML-CSS
